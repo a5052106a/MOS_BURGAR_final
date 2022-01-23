@@ -60,3 +60,50 @@
     position: relative;
     left: 25%;
 }
+
+
+
+
+
+
+
+
+.order3-button1{
+    background:#E60012;
+    color: white;
+    border-radius: 1.2vmin;
+    border-width: 0;
+    width: 25vmin;
+    height: 5.8vmin;
+    /* 223*47 */
+    letter-spacing: 0.2em;
+    margin-top: 1.5vmin;
+    margin-bottom: 1vmin;
+}
+.order3-left-button-1{
+    font-size: 2vmin;
+    /* 24px */
+    font-weight: bold;
+    width: 25vmin;
+    margin: 0 0 0 auto;
+}
+
+.order3-button2{
+    background:#A0A0A0;
+    color: white;
+    border-radius: 1.2vmin;
+    border-width: 0;
+    width: 25vmin;
+    height: 5.8vmin;
+    /* 223*47 */
+    letter-spacing: 0.2em;
+    margin-top: 1.5vmin;
+    margin-bottom: 1vmin;
+}
+.order3-left-button-2{
+    font-size: 2vmin;
+    /* 24px */
+    font-weight: bold;
+    width: 25vmin;
+    margin: 0 0 0 auto;
+}

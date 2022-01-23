@@ -194,12 +194,11 @@ body{
     margin-left: 10vmin;
 }
 .order-right{
-    justify-content: center;
     font-size: 3vmin;
     /* 24px */
     font-weight: bold;
-    align-items: center;
-    display: block;
+    margin: 0 auto;
+    width: 28vmin
 }
 .order-button{
     background:#E60012;

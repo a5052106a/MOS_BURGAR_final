@@ -18,21 +18,54 @@
     /* background-color: white!important; */
     
 }
-lottie-player{
+.lottie-player{
     background:"#FBF2D3;";
     width: 80%;
     align-items: center;
 }
 .txt{
     text-align: center;
+    /* width: 455px;
+    height: 28px; */
+    margin: 2vmin auto;
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: 0.2em;
+
+    color: #000000;
 }
 .mov{
     display: block;
     align-items: center;
     justify-content: center;
 }
-.order6-img{
+.div-order6-img{
     justify-content: center;
     align-items: center;
-    margin: 0 auto 0 auto;
+    margin: 0 auto ;
+    width: 50%;
+    display: flex;
+}
+.order6-img{
+    width: 80vmin;
+}
+.order6-down-butoon{
+    font-size: 2vmin;
+    /* 24px */
+    margin: 0 auto;
+    width: 28vmin
+}
+.order6-button{
+    background:#E60012;
+    color: white;
+    border-radius: 1.1vmin;
+    border-width: 0;
+    width: 28vmin;
+    height: 5vmin;
+    /* 223*47 */
+    letter-spacing: 0.2em;
+    margin-top: 1.5vmin;
+    margin-bottom: 8vmin;
+    align-items: center;
+    justify-content: center;
 }
